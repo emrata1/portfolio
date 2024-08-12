@@ -1,7 +1,8 @@
 .parent{
     border:  solid thin #F6D050;
     /* width: 100%; */
-    max-height: 100vh;
+    height: 100vh;
+    width: 100vw;
     margin: auto;
     background-color: #F6D050;
     box-shadow:  1px 1px 10px;
