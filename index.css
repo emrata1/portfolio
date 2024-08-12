@@ -1,0 +1,40 @@
+.parent{
+    border:  solid thin #F6D050;
+    /* width: 100%; */
+    max-height: 100vh;
+    margin: auto;
+    background-color: #F6D050;
+    box-shadow:  1px 1px 10px;
+}
+.father{
+    border:  solid thin ;
+    width: 310px;
+    height: 430px;
+    margin: 100px auto;
+    background-color: white;
+    border-radius: 10px;
+    display: grid;
+    justify-content: center;
+    box-shadow: 5px 5px;
+    
+}
+.img{
+    max-width: 280px;
+    max-height: 280px;
+    margin: auto;
+    margin-top: 10px;
+}
+.sub{
+    font-size: 16px;
+    /* font-family: "Outfit", sans-serif; */
+}
+.l{
+    /* border: thin solid; */
+    max-width: 70px;
+    max-height:70px ;
+    justify-content: center;
+    display: grid;
+    font-size: 16px;
+    background-color: #F6D050
+    
+}
